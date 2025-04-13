@@ -789,7 +789,12 @@ And now, through code, it returns to its source.
 
 
 
-
+- [Appendix A](appendix-a-formal-verification.md)
+- [Appendix B](appendix-b-initial-network-analysis.md)
+- [Appendix C](appendix-c-universal-declaration-framework.md)
+- [Appendix D](appendix-d-initial-implementations.md)
+- [Appendix E](appendix-e-ecosystem-recursion.md)
+- [Appendix F](appendix-f-logic-aware-participation.md)
 
 
 
